@@ -1,0 +1,5 @@
+nome= input ("qual é o seu nome ?")
+print("ola {}".format(nome))
+idade = input("qual é a sua idade?")
+peso = input("qual é o seu peso?")
+print("benvindo", nome, "aqui esta a sua ficha", nome, idade,"anos", peso,"kg")

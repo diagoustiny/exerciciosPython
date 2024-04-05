@@ -1,0 +1,5 @@
+n = int(input("digite um valor"))
+dobro = int(n * 2)
+triplo = int(n * 3)
+raiz = float(n ** (1 / 2))
+print("o dobro desse valor é : {} o seu triplo é : {} e a sua raiz quadrada é : {:2f}  ".format(dobro, triplo, raiz))
